@@ -80,7 +80,7 @@ SELECT SUM(total_price) AS TotalRevenue
 FROM pizza_sales;
 
 
-Conclusion
+ ## Conclusion
 
 The Pizza Sales Dashboard delivers a comprehensive, data-driven overview of pizza retail performance by integrating SQL, Excel, and Power BI for end-to-end analysis.
 It transforms raw transactional data into meaningful business insights, enabling organizations to monitor KPIs, identify trends, and make informed decisions.
