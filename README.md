@@ -59,7 +59,7 @@ By visualizing a **full year of sales data**, the dashboard empowers decision-ma
 
 ---
 
-## 🧾 Dataset Details
+## (4).Dataset Details
 
 | **Attribute** | **Description** |
 |----------------|-----------------|
@@ -70,17 +70,14 @@ By visualizing a **full year of sales data**, the dashboard empowers decision-ma
 
 ---
 
-## (4).SQL & DAX Highlights
+## (5).SQL & DAX Highlights
 
 Examples of **SQL queries** and **DAX measures** used for KPI calculations and trend analysis are included in:  
-📄 **`PIZZA-SALES-SQL-QUERIES.docx`**
-
+ **`PIZZA-SALES-SQL-QUERIES.docx`**
 ### Sample SQL Query – Total Revenue
-```sql
+
 SELECT SUM(total_price) AS TotalRevenue
 FROM pizza_sales;
-
-
 
 
 Conclusion
@@ -99,3 +96,19 @@ Enhance inventory management using insights from sales patterns.
 Boost profitability and efficiency through continuous performance monitoring.
 
 In conclusion, this dashboard acts as a powerful business intelligence tool, empowering stakeholders to make strategic, data-backed decisions and drive sustainable business growth.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
